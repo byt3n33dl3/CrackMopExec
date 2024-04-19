@@ -1,3 +1,24 @@
 [build-system]
-requires = ["setuptools>=61.0.0"]
+requires = ["setuptools>=61.0.0", "wheel"]
 build-backend = "setuptools.build_meta"
+
+[tool.black]
+line-length = 88
+include = '\.py$'
+exclude = '''
+/(
+    \.git
+  | \.hg
+  | \.venv
+  | _build
+  | build
+)/
+'''
+
+[tool.pytest]
+minversion = "6.0"
+addopts = "-ra -q"
+
+[tool.isort]
+profile = "black"
+src_paths = ["kerberoast", "lib"]
