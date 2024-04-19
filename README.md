@@ -4,6 +4,6 @@
 
 ![kerbe_card](https://user-images.githubusercontent.com/19204702/84308376-43e48700-ab13-11ea-94f2-27d2badb8540.jpg)
 
-## -----------------NOTE-----------------
+## ------------NOTE-----------
 
 ### not ready for deployed and use since project was on progress 📈
