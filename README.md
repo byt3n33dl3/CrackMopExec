@@ -7,3 +7,4 @@
 ## ------------NOTE-----------
 
 ### not ready for deployed and use since project was on progress 📈
+Note: I will not also take any responsibility of someone else's ill act with this program. this is for educational purposes.
