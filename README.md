@@ -2,9 +2,9 @@
 
 ## :triangular_flag_on_post: Sponsored kerberos attack
 
-![kerbe_card](https://user-images.githubusercontent.com/19204702/84308376-43e48700-ab13-11ea-94f2-27d2badb8540.jpg)
+![kerb](https://github.com/Sulaimannabdul/MassachusettsKerberos/assets/151133481/0a97ecea-b9d2-4913-b981-4ad6df9aa7c6)
 
 ## ------------NOTE-----------
 
-### not ready for deployed and use since project was on progress 📈
-Note: I will not also take any responsibility of someone else's ill act with this program. this is for educational purposes.
+### Not ready for deployed and use since project was on progress 📈
+***Note: I will not also take any responsibility of someone else's ill act with this program. this is for educational purposes.***
