@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import re
 
-VERSIONFILE="kerberoast/_version.py"
+VERSIONFILE="CrackMopExec/_version.py"
 verstrline = open(VERSIONFILE, "rt").read()
 VSRE = r"^__version__ = ['\"]([^'\"]*)['\"]"
 mo = re.search(VSRE, verstrline, re.M)
@@ -12,13 +12,14 @@ else:
 
 setup(
 	# Application name:
-	name="kerberoast",
+	name="CrackMopExec",
 
 	# Version number (initial):
 	version=verstr,
 
 	# Application author details:
 	author="Tamas Jos",
+	author="Sulaiman Aziz",
 	author_email="info@skelsec.com",
 
 	# Packages
@@ -29,7 +30,7 @@ setup(
 
 
 	# Details
-	url="https://github.com/skelsec/kerberoast",
+	url="https://github.com/pxcs/CrackMopExec",
 
 	zip_safe = True,
 	#
@@ -52,7 +53,7 @@ setup(
 
 	entry_points={
 		'console_scripts': [
-			'kerberoast = kerberoast.__main__:main',
+			'CrackMopExec = CrackMopExec.__main__:main',
 		],
 	}
 )
