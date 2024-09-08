@@ -50,11 +50,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "x64", "x64", "{71D007E1-9E3
 		lib\x64\winhttp.lib = lib\x64\winhttp.lib
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "samba", "samba", "{8B68E870-E7A4-446D-9853-3E1042FFD15A}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CrackMopExec", "CrackMopExec", "{8B68E870-E7A4-446D-9853-3E1042FFD15A}"
 	ProjectSection(SolutionItems) = preProject
-		samba\lib_smb_pipe.c = samba\lib_smb_pipe.c
-		samba\lib_smb_pipe_x64.so = samba\lib_smb_pipe_x64.so
-		samba\lib_smb_pipe_x86.so = samba\lib_smb_pipe_x86.so
+		CrackMopExec\lib_smb_pipe.c = CrackMopExec\lib_smb_pipe.c
+		CrackMopExec\lib_smb_pipe_x64.so = CrackMopExec\lib_smb_pipe_x64.so
+		CrackMopExec\lib_smb_pipe_x86.so = CrackMopExec\lib_smb_pipe_x86.so
 	EndProjectSection
 EndProject
 Global
