@@ -21,4 +21,4 @@ addopts = "-ra -q"
 
 [tool.isort]
 profile = "black"
-src_paths = ["kerberoast", "lib"]
+src_paths = ["CrackMopExec", "CrackMopExec"]
